@@ -25,10 +25,9 @@ To explore the Amazon clone, simply clone this repository and open the index.htm
 
 Contributions are welcome! Feel free to fork this repository, make changes, and submit a pull request with your improvements or additional features.
 
-# License:
-
-This project is licensed under the MIT License, granting you the freedom to modify and distribute the code for personal or commercial use.
-
 # Disclaimer:
 
 This project is for educational purposes only and is not affiliated with or endorsed by Amazon Inc. All product names, logos, and brands are property of their respective owners.
+
+# URL
+URL:https://github.com/Jatin200521/AmazClone
